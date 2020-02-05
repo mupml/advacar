@@ -1,0 +1,20 @@
+.mon{
+    display: block;
+    margin: auto;
+    width: 100%;
+}
+
+.title{
+    font-weight: normal;
+    font-size: 24pt;
+    text-align: center;
+}
+
+.subtext{
+    
+    margin-top: 40px;
+    margin-bottom: 40px;
+    font-weight: normal;
+    font-size: 16pt;
+    text-align: center;
+}

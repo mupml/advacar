@@ -1,0 +1,15 @@
+{
+    "advacar": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-advacar-advacar-113825-authRole",
+            "UnauthRoleArn": "arn:aws:iam::250286007225:role/amplify-advacar-advacar-113825-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::250286007225:role/amplify-advacar-advacar-113825-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "amplify-advacar-advacar-113825-deployment",
+            "UnauthRoleName": "amplify-advacar-advacar-113825-unauthRole",
+            "StackName": "amplify-advacar-advacar-113825",
+            "StackId": "arn:aws:cloudformation:eu-west-1:250286007225:stack/amplify-advacar-advacar-113825/07f58600-480c-11ea-b687-0aa24a1523d0",
+            "AmplifyAppId": "daozg03k13l9k"
+        }
+    }
+}

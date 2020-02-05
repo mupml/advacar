@@ -1,0 +1,27 @@
+.how{
+    text-align: center;
+}
+
+.company{
+    width: 80%;
+    display: block;
+    margin: auto;
+}
+
+.fix{
+    margin-top: 30px;
+    text-align: center;
+}
+
+.submitBtn{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width:80%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
